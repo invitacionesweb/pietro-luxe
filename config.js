@@ -23,7 +23,7 @@ textoUbicacion2: "",
   textoForm: "Tu presencia es lo más importante",
   textoFormSub: "No olvides confirmar asistencia con mis papis antes del 20 de noviembre",
   maxInvitados: 5,
-  scriptFormUrl: "https://script.google.com/macros/s/AKfycbyqKEbEHYGqSm9W1vtyhU-tzQbKZG_nMFEyPkZniFNgMYqt7lNsg4I6pfxTNHApEPgY/exec",
+  scriptFormUrl: "https://script.google.com/macros/s/AKfycbxXfCkLXdQaSiMBiuG5lPFqjbcDuo6oryO9gX_qbUZEmr71jjk1bcBkVfRmsMMQxZXVIQ/exec",
 
   // --- AUDIO ---
   archivoAudio: "./THELION.mp3",
