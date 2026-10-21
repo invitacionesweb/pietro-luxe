@@ -13,7 +13,7 @@ const CONFIG = {
   fechaContador: "2026-11-28T16:00:00",
 
   // --- UBICACIÓN ---
-textoUbicacion: "Te espero para festejar mi primer añito 🦁 <br> Sábado 28 de noviembre, de 16:00 hs a 20:00 hs <br> en Salón Buona Terra, Centenario, Neuquén",
+textoUbicacion: "Te espero para festejar mi primer añito 🦁 <br> de 16:00 hs a 20:00 hs <br> en Salón Buona Terra, Centenario, Neuquén",
 textoUbicacion2: "",
 
   linkMapa: "https://maps.app.goo.gl/z7LDgEq5DAzNncXQ8",
@@ -26,7 +26,7 @@ textoUbicacion2: "",
   scriptFormUrl: "https://script.google.com/macros/s/AKfycbyqKEbEHYGqSm9W1vtyhU-tzQbKZG_nMFEyPkZniFNgMYqt7lNsg4I6pfxTNHApEPgY/exec",
 
   // --- AUDIO ---
-  archivoAudio: "./cancion.mp3",
+  archivoAudio: "./THELION.mp3",
 
   // --- COLORES (tonos safari) ---
   colores: {

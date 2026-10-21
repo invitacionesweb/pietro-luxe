@@ -169,15 +169,24 @@ audio::-webkit-media-controls-current-time-display {
     align-items: center;
     justify-content: center;
 }
-
+.fechadiv {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .datos-ubicacion img {
     
     width: 180px;
+    margin: auto;
+    padding: auto;
 }
 
 .datos-ubicacion .fecha {
-    width: 100%;
+    width: 90%;
     max-width: 420px;
+    margin: auto;
+    padding: auto;
 }
 
 .datos-ubicacion .datos {
